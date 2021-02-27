@@ -1,3 +1,1 @@
-# Introduction
-
-I am a full-stack software developer.
+![image](banner.png)
