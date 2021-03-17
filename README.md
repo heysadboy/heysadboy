@@ -1,5 +1,3 @@
-![image](images/banner.png)
-
 ### Welcome to my GitHub profile
 
 I am a software developer with 2+ years of experience. I was born and raised in India and after graduating I moved to Japan for my first full-time job in 2019.
