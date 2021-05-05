@@ -2,7 +2,7 @@
 
 I am a software developer with 2+ years of experience. I was born and raised in India and after graduating I moved to Japan for my first full-time job in 2019.
 
-Currently, I use ReactJS, Django and AWS at my work. I have also worked with Android in the past. I have 2 apps with 10,000+ downloads on [play store](https://play.google.com/store/apps/developer?id=heysadboy&hl=en). I like making scalable and beautiful products.
+Currently, I use ReactJS, Django REST Framework and AWS at my work. I have also worked with Android in the past. I have 2 apps with 10,000+ downloads on [play store](https://play.google.com/store/apps/developer?id=heysadboy&hl=en). I like making scalable and beautiful products.
 
 I hope to make many open source projects this year and improve my skills. 
 
